@@ -1,0 +1,21 @@
+{
+  "id": "4aa69b1a-8ad3-4283-8f81-1359dc08e159",
+  "name": "I dont eat",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509865878679,
+  "fallbackIntent": false,
+  "events": []
+}

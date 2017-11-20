@@ -1,0 +1,50 @@
+{
+  "id": "e04b3aae-20a7-40f4-95d6-37e7453a3469",
+  "name": "Default Fallback Intent",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "slack",
+          "lang": "en",
+          "speech": [
+            "Kindly message @godfredakpan for more information",
+            "Kindly message \u003c@U7KCRHV2Q\u003e for more information"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I\u0027m sorry. I\u0027m having trouble understanding the question.",
+            "I think I may have misunderstood your last statement.",
+            "I\u0027m sorry. I didn\u0027t quite grasp what you just said.",
+            "I don\u0027t think I\u0027m qualified to answer that yet.",
+            "I\u0027m a bit confused by that last part.",
+            "I\u0027m not totally sure about that.",
+            "I\u0027m not sure I follow.",
+            "I\u0027m afraid I don\u0027t understand.",
+            "I\u0027m a bit confused."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "slack": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509785042975,
+  "fallbackIntent": true,
+  "events": []
+}

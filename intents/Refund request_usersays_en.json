@@ -1,0 +1,98 @@
+[
+  {
+    "id": "864b12cf-df23-4cf3-9bfa-ded3360a9fd3",
+    "data": [
+      {
+        "text": "I\u0027ve bought the broken item. Return my money",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1480678276
+  },
+  {
+    "id": "6369b733-602a-42cf-af35-93a7ba65ec03",
+    "data": [
+      {
+        "text": "give me back my money",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1480678368
+  },
+  {
+    "id": "4c289f82-f0f9-4ae1-89e2-a6d1c0d818e4",
+    "data": [
+      {
+        "text": "I want to cancel the purchase  ",
+        "userDefined": false
+      },
+      {
+        "text": "134",
+        "alias": "transactionid",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1480678563
+  },
+  {
+    "id": "61106db7-32b4-4521-abe4-08861bf7e44c",
+    "data": [
+      {
+        "text": "refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cd2a34b8-083d-4cbe-9d28-c04f04381b94",
+    "data": [
+      {
+        "text": "how do i get a refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e5c56b91-5857-47e7-8228-56215e9a4430",
+    "data": [
+      {
+        "text": "the product I\u0027ve bought here is failed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1480678276
+  },
+  {
+    "id": "52ec1325-a4f1-4516-b202-325defafd743",
+    "data": [
+      {
+        "text": "refund my purchase. Transaction id is ",
+        "userDefined": false
+      },
+      {
+        "text": "123",
+        "alias": "transactionid",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

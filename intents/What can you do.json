@@ -1,0 +1,32 @@
+{
+  "id": "94cf1a1d-6b37-43be-a8dc-944d6e8287e8",
+  "name": "What can you do",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.what",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Kindly message @godfredakpan if you need more information",
+            "Kindly message @godfredakpan if you need more help"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509838640512,
+  "fallbackIntent": false,
+  "events": []
+}

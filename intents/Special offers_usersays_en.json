@@ -1,0 +1,55 @@
+[
+  {
+    "id": "1fa174a4-ea40-444d-8c83-368194464db6",
+    "data": [
+      {
+        "text": "special price",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1480692985
+  },
+  {
+    "id": "600c7a2a-8bbd-4d7f-bd47-d69225036c1f",
+    "data": [
+      {
+        "text": "do you have special offers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1480692985
+  },
+  {
+    "id": "b12ec4b5-1603-46ca-910b-b9d13f066bd6",
+    "data": [
+      {
+        "text": "current offers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1480692985
+  },
+  {
+    "id": "4fedf4c8-3724-4463-94c8-79c12a653847",
+    "data": [
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s offer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1480692985
+  }
+]

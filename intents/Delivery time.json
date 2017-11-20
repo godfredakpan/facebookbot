@@ -1,0 +1,43 @@
+{
+  "id": "c66949a2-07ef-4032-9fe6-783fadebe888",
+  "name": "Delivery time",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "support.delivery",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can check the estimated delivery time on the Deliver page of our website."
+        },
+        {
+          "type": 1,
+          "platform": "slack",
+          "lang": "en",
+          "title": "",
+          "buttons": [
+            {
+              "text": "Delivery",
+              "postback": "http://example.com/delivery"
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "slack": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509785042953,
+  "fallbackIntent": false,
+  "events": []
+}

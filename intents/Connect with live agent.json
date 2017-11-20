@@ -1,0 +1,52 @@
+{
+  "id": "ab39c2f4-7c85-46e9-9890-d0661d5e5b7a",
+  "name": "Connect with live agent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "support.live_person",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "013a497d-648a-4d83-ad52-b0dfe31e827e",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "details",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Can you give me some more details of your issue?"
+            },
+            {
+              "lang": "en",
+              "value": "Tell me more, so our support team can give you the best answer."
+            },
+            {
+              "lang": "en",
+              "value": "Please, elaborate on the issue, so support team can help you."
+            }
+          ]
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Thanks for the information! Our support team will get in touch with you shortly."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "slack": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509785042983,
+  "fallbackIntent": false,
+  "events": []
+}

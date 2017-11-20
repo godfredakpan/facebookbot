@@ -1,0 +1,31 @@
+{
+  "id": "1bcf91d7-acdb-4583-abca-927d6efb0730",
+  "name": "Contact us",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "support.contacts",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Email us at support@example.com for any questions regarding our products and services."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "slack": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509785042974,
+  "fallbackIntent": false,
+  "events": []
+}

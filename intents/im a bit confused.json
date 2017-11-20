@@ -1,0 +1,21 @@
+{
+  "id": "0d7ad41e-12af-45cb-a2ea-3aebc896a1e1",
+  "name": "im a bit confused",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509865878678,
+  "fallbackIntent": false,
+  "events": []
+}
